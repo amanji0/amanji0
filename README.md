@@ -6,16 +6,25 @@
   <a href="https://github.com/amanji0">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I+am+Aman+Ji;Final+Year+CSE+Student;Passionate+Coder" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=amanji0&label=Profile%20Views&color=2196F3&style=flat-square" alt="amanji0 views" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-*   🎓 **Final Year Computer Science Student**
-*   🌱 I'm currently working with **Python, C, C++, and Java**
-*   💬 Ask me about **Software Development and Algorithms**
-*   ⚡ Fun fact: I love pixel art aesthetics and coding late at night!
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Aman Ji"
+        self.role = "Final Year Computer Science Student"
+        self.learning = ["Software Development", "Algorithms", "Backend Systems"]
+        
+    def current_status(self):
+        return "Building awesome projects and mastering new tech late at night! 🌙"
+```
 
 ---
 
@@ -23,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,mongodb,linux,bash,git,github,vscode&perline=11" />
   </a>
 </p>
 
