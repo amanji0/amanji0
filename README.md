@@ -39,10 +39,10 @@ echo "Deploying awesome projects and mastering new tech..."
 
 <div align="center">
   <a href="https://github.com/amanji0">
-    <img src="https://github-readme-stats.vercel.app/api?username=amanji0&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=00000000&title_color=00BCD4&icon_color=00BCD4&text_color=ffffff" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=amanji0&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=00000000&title_color=00BCD4&icon_color=00BCD4&text_color=ffffff" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/amanji0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanji0&layout=compact&theme=cyberpunk&hide_border=true&bg_color=00000000&title_color=00BCD4&text_color=ffffff" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=amanji0&layout=compact&theme=cyberpunk&hide_border=true&bg_color=00000000&title_color=00BCD4&text_color=ffffff" alt="Top Languages" width="48%" />
   </a>
 </div>
 
